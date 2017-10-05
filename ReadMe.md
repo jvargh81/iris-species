@@ -2,11 +2,10 @@
 
 *The IRIS dats set contains 3 types of species.*
 
-	_Species are named as following :_
-
 	* Setosa
 	* Virginica
 	* Versicolor
+
 ### Tools
 	* Anaconda
 	* Jupyter Notebook
@@ -68,14 +67,14 @@ HTML(html_pygal.format(pygal_render=bar.render()))
 ![](Species_data_set_count.svg)
 
 
-####Conclusion :
+### Conclusion :
 
 Using the data in the database, the analysis helped to understand,
 how to identify each by their sepal length, petal length sepal width and 
 petal width.
 
 
-Kaggle Site:
+*Kaggle Site:*
 https://www.kaggle.com/jerrinv/iris-data-set
 
 *Note : Here pygal library is not used.*
