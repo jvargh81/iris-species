@@ -65,9 +65,6 @@ HTML(html_pygal.format(pygal_render=bar.render()))
 
 ```
 
-![]("image.png")
-
-
 ### Conclusion :
 
 Using the data in the database, the analysis helped to understand,
