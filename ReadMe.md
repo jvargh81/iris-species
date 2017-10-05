@@ -52,7 +52,8 @@ In this example, the graph ploted is bar graph.This graph is ploting the data
 of the number data available for each Species.
 
 Below is the snipet for the bargraph.
-Note : In this code, we are mostly using pygal to plot graphs.
+
+**Note : In this code, we are mostly using pygal to plot graphs.**
 ```python
 
 bar = pygal.Bar(print_labels=True,print_values=True)
@@ -64,7 +65,7 @@ HTML(html_pygal.format(pygal_render=bar.render()))
 
 ```
 
-![](image.png)
+![]("image.png")
 
 
 ### Conclusion :
